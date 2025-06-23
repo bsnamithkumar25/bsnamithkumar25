@@ -2,6 +2,6 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning coding
 - 💞️ I’m looking to collaborate on coding
-- 📫 How to reach me ig @_namithhhh._
+- 📫 How to reach me ig @nam1thhh
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: i code well
