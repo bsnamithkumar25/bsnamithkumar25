@@ -1,7 +1,1 @@
-- 👋 Hi, I’m @bsnamithkumar25
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning coding
-- 💞️ I’m looking to collaborate on coding
-- 📫 How to reach me ig @nam1thhh
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: i code well
+<img width="1690" height="426" alt="image" src="https://github.com/user-attachments/assets/5eeebc62-fd5d-4194-9eff-0df82da29e63" />
